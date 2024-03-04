@@ -1,0 +1,14 @@
+{
+    "k": 40,
+    "min_k": 1,
+    "sim_options": {
+        "name": "MSD",
+        "user_based": true
+    },
+    "bsl_options": {
+        "method": "als",
+        "n_epochs": 10,
+        "reg_u": 15,
+        "reg_i": 10
+    }
+}

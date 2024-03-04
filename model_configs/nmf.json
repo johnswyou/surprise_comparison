@@ -1,0 +1,6 @@
+{
+    "n_factors": 15,
+    "n_epochs": 50,
+    "reg_pu": 0.06,
+    "reg_qi": 0.06
+}

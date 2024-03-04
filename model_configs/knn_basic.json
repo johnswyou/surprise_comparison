@@ -1,0 +1,8 @@
+{
+    "k": 40,
+    "min_k": 1,
+    "sim_options": {
+        "name": "MSD",
+        "user_based": true
+    }
+}

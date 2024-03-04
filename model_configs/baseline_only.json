@@ -1,0 +1,6 @@
+{
+    "method": "sgd",
+    "n_epochs": 20,
+    "reg_u": 15,
+    "reg_i": 10
+}
